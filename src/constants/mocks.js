@@ -83,3 +83,10 @@ const profile = {
   monthly_cap: 5000,
   newsletter: false
 };
+
+export {
+  categories,
+  explore,
+  products,
+  profile
+};

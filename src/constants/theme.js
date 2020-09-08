@@ -9,7 +9,7 @@ const colors = {
     gray2: "#C5CCD6",       //more gray
     twBlue: "#347DDB",      //twitter blue
     canYellow: "F4D03E",    //Canary Yelllow
-    orange: "#E77E23",      //Orange
+    liOrange: "#E77E23",      //Orange
     liPurple: "#C29BD2"     //Light Purple
 };
 
